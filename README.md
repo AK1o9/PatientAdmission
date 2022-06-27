@@ -1,5 +1,2 @@
 # PatientAdmission
-Patient Admission System for managing and sorting patients' positions in a waiting list (or queue), visit history and more... 
-
-# Users
-Nurses & Doctors
+Patient Admission System for **nurses & doctors** to manage and sort patients' positions in a waiting list (or queue), visit history and more... 
