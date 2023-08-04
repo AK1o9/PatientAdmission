@@ -2,6 +2,7 @@
 - This system is intended for *nurses & doctors* to manage and sort patients' positions in a waiting list (or queue), visit history and perform various administrative tasks. 
 - This system makes use of ***singly linked lists*** as data structures for managing patient records so it makes use of nodes and node addresses, which are used inorder to link each node to the next.
 
+Here is a simple illustration on how singly linked lists are structured:
 ![image](https://user-images.githubusercontent.com/96708800/176027833-d44004a2-fa32-4f3f-a32e-a335d8538d64.png)
 
 ## Features
