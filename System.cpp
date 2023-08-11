@@ -45,7 +45,6 @@ struct VisitHistory {
 };
 VisitHistory* history_head = NULL;
 
-//Nasser
 void NursesMenu();
 void DoctorMenu();
 int main();
@@ -56,7 +55,6 @@ void ViewWaitingList(Patient* Head);
 void CallPatientToBeTreated(Patient* Head);
 void DeletePatientFromWaitingList(Patient* position);
 
-//Sarah
 void SearchPatientFirstName();
 void SearchPatientByID();
 void SearchPatientFromWaitingList(Patient* Head);
@@ -65,7 +63,6 @@ void insertionSortWaitingListByTime(struct Patient** head_ref);
 void ViewWaitingListPageByPage();
 Patient* SearchPaitentID(int id, Patient* Head);
 
-//Ahmed
 void ViewHistoryList(VisitHistory* history_head);
 void SearchPatientFromVisitHistory(VisitHistory* history_head);
 void sortHistoryListByTime_DESC(struct VisitHistory** head_ref, struct VisitHistory* new_node);
@@ -997,7 +994,7 @@ int main() {
     //Main menu:
     do
     {
-        cout << "\n-----------> Welcome to Patient's Queue based Management System <-------------\n\n";
+        cout << "\n-----------> Welcome to Patients' Queue-based Management System <-------------\n\n";
         cout << "\n1. Nurse Page";
         cout << "\n2. Doctor Page";
         cout << "\n3. Exit";
