@@ -1003,9 +1003,9 @@ int main() {
         switch (option)
         {
         case '1':
-            cout << "\nEnter the Nurses' Password (G39): ";
+            cout << "\nEnter the Nurses' Password (admin): ";
             cin >> password;
-            if (password == "G39") {
+            if (password == "admin") {
                 NursesMenu();
             }
             else {
@@ -1013,9 +1013,9 @@ int main() {
             }
             break;
         case '2':
-            cout << "\nEnter the Doctors' Password (G39): ";
+            cout << "\nEnter the Doctors' Password (admin): ";
             cin >> password;
-            if (password == "G39") {
+            if (password == "admin") {
                 DoctorMenu();
             }
             else {
