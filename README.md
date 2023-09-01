@@ -3,7 +3,7 @@
 - The system also makes use of ***singly linked lists*** as data structures for managing patient records, so it basically makes use of nodes and node addresses, which are used inorder to link each node to the next.
 - It is advisable to run this using a command prompt ('cmd' for instance) as the system has custom colors and properties. 
 
-## Video Demo: https://www.youtube.com/watch?v=EJv-Wc6t75U
+## Video Demo: [https://www.youtube.com/watch?v=EJv-Wc6t75U](https://youtu.be/9ItcM62mEe4?si=bEY21fvVHotNE1GI)
 
 For a better understanding, here is a simple illustration on how singly linked lists are structured:
 
